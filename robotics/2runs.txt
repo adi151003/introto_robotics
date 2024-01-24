@@ -1,0 +1,6 @@
+This is the output of randomized hill climbing - Simple Search
+
+The cost of best Solution [11, 2, 8, 10, 5, 0, 9, 7, 6, 1, 4, 3]
+The path of best solution 328
+Value of MEB count is  2
+********** %s seconds********* 0.002749204635620117
